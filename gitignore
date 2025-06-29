@@ -25,5 +25,5 @@ publish/
 # Mac OS
 .DS_Store
 
-# Node modules (لو عندك Frontend)
+# Node modules
 node_modules/
