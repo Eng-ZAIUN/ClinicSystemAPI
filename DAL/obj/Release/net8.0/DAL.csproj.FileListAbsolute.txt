@@ -1,0 +1,14 @@
+D:\API\ClinicSystemAPI\DAL\bin\Release\net8.0\DAL.deps.json
+D:\API\ClinicSystemAPI\DAL\bin\Release\net8.0\DAL.runtimeconfig.json
+D:\API\ClinicSystemAPI\DAL\bin\Release\net8.0\DAL.dll
+D:\API\ClinicSystemAPI\DAL\bin\Release\net8.0\DAL.pdb
+D:\API\ClinicSystemAPI\DAL\obj\Release\net8.0\DAL.csproj.AssemblyReference.cache
+D:\API\ClinicSystemAPI\DAL\obj\Release\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\ClinicSystemAPI\DAL\obj\Release\net8.0\DAL.AssemblyInfoInputs.cache
+D:\API\ClinicSystemAPI\DAL\obj\Release\net8.0\DAL.AssemblyInfo.cs
+D:\API\ClinicSystemAPI\DAL\obj\Release\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\API\ClinicSystemAPI\DAL\obj\Release\net8.0\DAL.dll
+D:\API\ClinicSystemAPI\DAL\obj\Release\net8.0\refint\DAL.dll
+D:\API\ClinicSystemAPI\DAL\obj\Release\net8.0\DAL.pdb
+D:\API\ClinicSystemAPI\DAL\obj\Release\net8.0\DAL.genruntimeconfig.cache
+D:\API\ClinicSystemAPI\DAL\obj\Release\net8.0\ref\DAL.dll

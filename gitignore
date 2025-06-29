@@ -1,0 +1,29 @@
+# 👉 .gitignore للـ .NET / ASP.NET Core
+
+# Bin and Obj folders
+bin/
+obj/
+
+# Build folder
+publish/
+
+# User-specific files
+*.user
+*.vspscc
+*.vssscc
+
+# Rider
+.idea/
+
+# Visual Studio
+.vs/
+*.suo
+
+# Logs
+*.log
+
+# Mac OS
+.DS_Store
+
+# Node modules (لو عندك Frontend)
+node_modules/
